@@ -75,17 +75,17 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
 
 | Anime | Manga | Manwha | Donghua |
 |-------|-------|--------|---------|
-| [Class Of The Elite] | [Judul Manga] | [Judul Manwha] | [Judul Donghua] |
-| [The Eminence in Shadow]
+| [Class Of The Elite] | [] | [Love Quest] | [] |
+| [The Eminence in Shadow] | [] | [Circles] | []
 ---
 
 ## 💼 Merchant
 
 | Platform | Products | Status |
 |----------|----------|--------|
-| Shopee | [Produk] | 🟢 Active |
-| Tokopedia | [Produk] | 🟢 Active |
-| Instagram | [Produk] | 🟡 Limited |
+| Wa | [AM PRO, YOUTUBE PREMIUM,CAPCUT PRO, WINK PREMIUM] | 🟢 Active |
+| Telegram | [AM PRO, YOUTUBE PREMIUM,CAPCUT PRO, WINK PREMIUM] | 🟢 Active |
+| Website | [AM PRO, YOUTUBE PREMIUM,CAPCUT PRO, WINK PREMIUM] | 🟡 Limited |
 
 ---
 

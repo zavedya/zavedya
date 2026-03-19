@@ -1,4 +1,4 @@
-
+```markdown
 <!-- DITZ TAKAHASHI - README PROFILE -->
 <!-- Copy paste ini ke README.md langsung -->
 
@@ -13,11 +13,11 @@
   <img src="https://komarev.com/ghpvc/?username=ditztakahashi&color=6C5CE7&style=flat" />
 </p>
 
-<br/>
+<br />
 
 ## 👤 About
 
-yaml
+```yaml
 name: Aditiya N.W
 alias: Ditz Takahashi
 age: 14
@@ -25,9 +25,9 @@ location: Indonesia
 school: SMP
 skills: [JavaScript, HTML, CSS, Node.js, Express]
 hobbies: [coding, anime, manga, manwha, donghua, jualan]
+```
 
-
-<br/>
+<br />
 
 🖼️ Gallery
 
@@ -50,6 +50,91 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
     <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/ditztakahashi/ditztakahashi/main/images/char4.jpg" width="150" height="150" style="border-radius: 10px; object-fit: cover;" />
+        <br /><sub>Character 4</sub>
+      </td>
+      <td align="center" colspan="2">
+        <img src="https://raw.githubusercontent.com/ditztakahashi/ditztakahashi/main/images/fullbody.jpg" width="320" style="border-radius: 10px;" />
+        <br /><sub>Full Body Character</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+Note: Ganti link gambar di atas dengan link foto kamu yang sudah diupload ke repo
+
+<br />
+
+🛠️ Tech Stack
+
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</div>
+
+<br />
+
+📊 Progress
+
+Skill Level
+JavaScript ████░░░░░░ 40%
+HTML/CSS ███████░░░ 70%
+Node.js ██░░░░░░░░ 20%
+Express.js █░░░░░░░░░ 10%
+Git/GitHub ███░░░░░░░ 30%
+Jualan Online ██████░░░░ 60%
+
+<br />
+
+📺 Watchlist
+
+Anime Manga Manwha Donghua
+[Judul] [Judul] [Judul] [Judul]
+[Judul] [Judul] [Judul] [Judul]
+
+<br />
+
+💼 Merchant
+
+Platform Products Status
+Shopee [Produk] 🟢 Active
+Tokopedia [Produk] 🟢 Active
+Instagram [Produk] 🟡 Limited
+
+<br />
+
+📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ditztakahashi&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditztakahashi&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" width="49%" />
+</div>
+
+<br />
+
+💬 Quote
+
+"Kadang kita perlu istirahat dari ngoding, tapi jangan pernah istirahat dari belajar."
+
+"Anime mengajarkan mimpi, coding mengajarkan cara mewujudkannya."
+
+<br />
+
+---
+
+<p align="center">
+  <sub>© 2024 Ditz Takahashi · Built with ❤️ + ☕ + 📺</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+</p>
+```
         <br /><sub>Character 4</sub>
       </td>
       <td align="center" colspan="2">
